@@ -1,0 +1,20 @@
+.slider-section{
+    background-color:#111430;
+    height: 75vh;
+}
+
+.slide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.slide-content img{
+    height: 320px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+
+}

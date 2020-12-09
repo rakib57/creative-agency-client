@@ -1,0 +1,31 @@
+.footer{
+    background: #FBD062;
+}
+
+.footer-form{
+    width: 100% !important;
+}
+
+.footer-form .form-group input, .footer-text-area{
+    width: 90%;
+    height: 50px;
+    margin: 10px 30px;
+    padding-left: 15px;
+    outline-width: 0;
+    border: .666667px solid #ececec;
+    border-radius: 5px;
+
+}
+.submit{
+    width: 170px;
+}
+.submit-button{
+    background: #111430;
+    padding:  10px 70px 10px 60px;
+    width: 170px;
+    margin-top: -1px;
+}
+.order-text-area{
+    height: 160px;
+    padding-top: 15px;
+}
